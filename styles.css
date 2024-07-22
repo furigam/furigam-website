@@ -153,12 +153,14 @@ main {
 
 .name {
     text-align: center;
+    padding-bottom: 20px;
 }
 
 .description {
     text-align: center;
     inline-size: 300px;
     overflow: hidden;
+    padding-bottom: 30px;
 }
 
 .team * {
